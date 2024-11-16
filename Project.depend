@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1694032699 source:c:\users\hp\onedrive\desktop\project\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<conio.h>
+	<sstream>
+	<fstream>
+	<vector>
+	"data.h"
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1692365036 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1683443693 source:c:\users\hp\onedrive\desktop\project\data.cpp
+	<iostream>
+
+1694032645 c:\users\hp\onedrive\desktop\project\data.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<fstream>
+
+1694032699 source:d:\project\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<conio.h>
+	<sstream>
+	<fstream>
+	<vector>
+	"data.h"
+
+1694032645 d:\project\data.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<fstream>
+
